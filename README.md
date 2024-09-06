@@ -10,7 +10,7 @@ Como sou voluntário da Proteção Animal Mundial, tenho um site de camisetas co
 
 A aplicação pode ser vista no link https://calculadora-omega-ten.vercel.app/
 
-Infelizmente é um conhecimento adquirido somente por prazer de saber, porque o mercado tem a concepçãp e o pré-conceito de que tecnologia não combina com idade.
+Infelizmente é um conhecimento adquirido somente por prazer de saber, porque o mercado tem a concepção e o pré-conceito de que tecnologia não combina com idade.
 
 Aos 58 anos sou um profissional-cadáver. As empresas pedem e querem anos de experiência, mas não querem idade.
 
